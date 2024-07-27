@@ -26,7 +26,7 @@
     <dependency>
       <groupId>org.openjump</groupId>
       <artifactId>OpenJUMP</artifactId>
-      <version>2.2.0-main-SNAPSHOT</version>
+      <version>main-SNAPSHOT</version>
     </dependency>
 
     <dependency>
